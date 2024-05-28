@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuljangidrj45&label=Profile%20views&color=0e75b6&style=flat" alt="rahuljangidrj45" /> </p>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mDT-dG36BGcaCby7Lag2QmaQAk5DeB-3/view?usp=drive_link](https://drive.google.com/file/d/1mDT-dG36BGcaCby7Lag2QmaQAk5DeB-3/view?usp=drive_link)
-
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul jangid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul jangid" height="30" width="40" /></a>
@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahuljangidrj45&show_icons=true&locale=en&layout=compact" alt="rahuljangidrj45" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuljangidrj45&show_icons=true&locale=en" alt="rahuljangidrj45" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahuljangidrj45&show_icons=true&locale=en" alt="rahuljangidrj45" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahuljangidrj45&" alt="rahuljangidrj45" /></p>
 
